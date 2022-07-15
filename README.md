@@ -1,5 +1,5 @@
 # native-app-kotlin
 mobile app with kotlin workshop
-# source project<br>
--Dice Roller<br>
--HappyBirthday
+# source project
+- Dice Roller<br>
+- HappyBirthday
