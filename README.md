@@ -1,6 +1,6 @@
 # native-app-kotlin
 mobile app with kotlin workshop
-# source project
+# source project from google developer
 - Dice Roller
 - HappyBirthday
 - Lemonade
