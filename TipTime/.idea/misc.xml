@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Github/native-app-kotlin/TipTime/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Github/native-app-kotlin/TipTime/app/src/main/res/drawable-anydpi-v26/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Github/native-app-kotlin/TipTime/app/src/main/res/drawable-anydpi-v26/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Github/native-app-kotlin/TipTime/app/src/main/res/drawable/ic_round_up.xml" value="0.1" />
+        <entry key="..\:/Github/native-app-kotlin/TipTime/app/src/main/res/drawable/ic_service.xml" value="0.1" />
+        <entry key="..\:/Github/native-app-kotlin/TipTime/app/src/main/res/drawable/ic_store.xml" value="0.1" />
+        <entry key="..\:/Github/native-app-kotlin/TipTime/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Github/native-app-kotlin/TipTime/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1775" />
       </map>
     </option>
   </component>
