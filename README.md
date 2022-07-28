@@ -6,3 +6,4 @@ mobile app with kotlin workshop
 - Lemonade
 - Tip Time
 - ThemeDesign
+- Affirmations
